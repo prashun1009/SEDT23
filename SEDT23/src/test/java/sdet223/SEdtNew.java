@@ -6,5 +6,6 @@ public class SEdtNew {
 	@Test
 	public void sampleTest() {
 		System.out.println("hello");
+		System.out.println("poll  scm");
 	}
 }
