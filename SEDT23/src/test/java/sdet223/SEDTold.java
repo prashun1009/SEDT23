@@ -6,6 +6,7 @@ public class SEDTold {
 	@Test
 	public void sample() {
 		System.out.println("hello world");
+		System.out.println("hello bunny");
 	}
 
 }
